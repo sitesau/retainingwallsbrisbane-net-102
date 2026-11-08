@@ -1,0 +1,22 @@
+{
+  "wheel_id": 444,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-net-102",
+  "project": "retaining-walls-brisbane-seasonal-timing-b274c5fd761feb219bde8a",
+  "parent_t1_ref": "retainingwallsbrisbane-net-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining walls brisbane seasonal timing",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-brisbane-seasonal-timing-b274c5fd761feb219bde8a/",
+  "tier": "T2",
+  "writeback_nonce": "ad361d7f842f58de",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-brisbane-diy-vs-professional-73cb75abbfe7f34/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
